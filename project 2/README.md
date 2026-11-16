@@ -1,4 +1,4 @@
-1. **Name(s):**
+1. **Name(s):** Amanda Silva and Ally Hussey
 2. **Project:**
 3. **Collaboration Statement:**
 4. **Provide a sample command which invokes your project.  If necessary, briefly explain any command line options/flags:**
